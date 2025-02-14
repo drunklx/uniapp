@@ -29,10 +29,10 @@
 		}
 	}],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "小琪的专属商城",
+		"navigationBarBackgroundColor": "#C00000",
+		"backgroundColor": "#FFFFFF",
 		"app-plus": {
 			"background": "#efeff4"
 		}
