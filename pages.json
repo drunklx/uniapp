@@ -28,11 +28,32 @@
 			"navigationBarTitleText" : ""
 		}
 	}],
+	"subPackages": [
+		{
+			"root": "subpkg",
+			"pages": [{
+				"path" : "goods_details/goods_details",
+				"style" : 
+				{
+					"navigationBarTitleText" : ""
+				}
+			},
+			{
+				"path" : "goods_list/goods_list",
+				"style" : 
+				{
+					"navigationBarTitleText" : ""
+				}
+			}
+				
+			]
+		}
+	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8",
+		"navigationBarTitleText": "小琪の专属商店",
+		"navigationBarBackgroundColor": "#C00000",
+		"backgroundColor": "#FFFFFF",
 		"app-plus": {
 			"background": "#efeff4"
 		}
