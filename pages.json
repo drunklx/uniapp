@@ -4,33 +4,55 @@
 		"path" : "pages/home/home",
 		"style" : 
 		{
-			"navigationBarTitleText" : ""
+			
 		}
 	},
 	{
 		"path" : "pages/cate/cate",
 		"style" : 
 		{
-			"navigationBarTitleText" : ""
+			
 		}
 	},
 	{
 		"path" : "pages/cart/cart",
 		"style" : 
 		{
-			"navigationBarTitleText" : ""
+			
 		}
 	},
 	{
 		"path" : "pages/my/my",
 		"style" : 
 		{
-			"navigationBarTitleText" : ""
+			
 		}
 	}],
+	"subPackages": [
+		{
+			"root": "subpkg",
+			"pages": [{
+				"path" : "goods_details/goods_details",
+				"style" : 
+				{
+					"navigationBarTitleText" : ""
+				}
+			},
+			{
+				"path" : "goods_list/goods_list",
+				"style" : 
+				{
+					"navigationBarTitleText" : ""
+				}
+			}
+				
+			]
+		}
+	],
 	"globalStyle": {
-		"navigationBarTextStyle": "white",
-		"navigationBarTitleText": "小琪的专属商城",
+
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小琪の专属商店",
 		"navigationBarBackgroundColor": "#C00000",
 		"backgroundColor": "#FFFFFF",
 		"app-plus": {
