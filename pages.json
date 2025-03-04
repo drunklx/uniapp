@@ -35,14 +35,20 @@
 				"path" : "goods_details/goods_details",
 				"style" : 
 				{
-					"navigationBarTitleText" : ""
+					
 				}
 			},
 			{
 				"path" : "goods_list/goods_list",
 				"style" : 
 				{
-					"navigationBarTitleText" : ""
+					
+				}
+			},
+			{
+				"path" : "search/search",
+				"style" : 
+				{
 				}
 			}
 				
